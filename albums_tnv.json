@@ -1,0 +1,12 @@
+{
+  "albums": [
+    {
+      "name": "TNV 01",
+      "photos_json": [
+        "photos_tnv_01_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1T80tUFpo414q36k5i1lxqCqDIKRKQhWu&sz=w1000",
+      "count": 3
+    }
+  ]
+}

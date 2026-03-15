@@ -1,0 +1,36 @@
+{
+  "albums": [
+    {
+      "name": "Ấn Độ",
+      "photos_json": [
+        "photos_an_do_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1XymxPG4L4mOZeEXC092JZr1em7KKrk5i&sz=w1000",
+      "count": 28
+    },
+    {
+      "name": "Ảnh",
+      "photos_json": [
+        "photos_anh_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1v3pz5MjuA9-pH5nvskHsOK4NK21btlsL&sz=w1000",
+      "count": 10
+    },
+    {
+      "name": "Cam kết",
+      "photos_json": [
+        "photos_cam_ket_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1_L6bKWiyfreVR30c6eJFm5ZHLdKlHQmB&sz=w1000",
+      "count": 40
+    },
+    {
+      "name": "Nepal",
+      "photos_json": [
+        "photos_nepal_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1cGWjwMvV1BcX-_qR-4CRHpmZQsYJeTLh&sz=w1000",
+      "count": 5
+    }
+  ]
+}

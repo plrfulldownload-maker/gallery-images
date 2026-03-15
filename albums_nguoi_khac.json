@@ -1,0 +1,60 @@
+{
+  "albums": [
+    {
+      "name": "Pháp Hỷ",
+      "photos_json": [
+        "photos_phap_hy_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1sJnweeg4cddbUFp2I6O2CSrb6qqAXVLK&sz=w1000",
+      "count": 1
+    },
+    {
+      "name": "Sư OK",
+      "photos_json": [
+        "photos_su_ok_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1yqAYrHfBMfUyofkQ4kVIOQ9vL3X5qaRG&sz=w1000",
+      "count": 4
+    },
+    {
+      "name": "Ảnh",
+      "photos_json": [
+        "photos_anh_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1iJbmc2SJ91BdmcCF0fjxiRLR86rZWh50&sz=w1000",
+      "count": 12
+    },
+    {
+      "name": "Tâm 32 cái muỗng",
+      "photos_json": [
+        "photos_tam_32_cai_muong_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1XYmnQAwFXu_FAa_rJnaeVRvuCxO6v3j8&sz=w1000",
+      "count": 2
+    },
+    {
+      "name": "Diễn viên ẤN ĐỘ",
+      "photos_json": [
+        "photos_dien_vien_an_do_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1Ydr1Lkt7IFmA5ScvBw1dUIiBMxj1rNkh&sz=w1000",
+      "count": 3
+    },
+    {
+      "name": "Sư cô Nhuận Hải",
+      "photos_json": [
+        "photos_su_co_nhuan_hai_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1fz0zD0DdeQbCr2KgycEpvj0TEvJfMRe5&sz=w1000",
+      "count": 6
+    },
+    {
+      "name": "Chị Quế",
+      "photos_json": [
+        "photos_chi_que_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1wEXixru4O2gxGvkJbfM2hA9JJ8DgoyXX&sz=w1000",
+      "count": 3
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "albums": [
+    {
+      "name": "Đạo Đạt",
+      "photos_json": [
+        "photos_dao_dat_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1h3CNlficb4bJ1RkW7Qs6Y_DLBuy75c5q&sz=w1000",
+      "count": 1
+    },
+    {
+      "name": "Tuệ Trí",
+      "photos_json": [
+        "photos_tue_tri_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=12hExjn1ThpO_Xjp2-7uBhRjGewVVseQM&sz=w1000",
+      "count": 2
+    },
+    {
+      "name": "Vô Sanh",
+      "photos_json": [
+        "photos_vo_sanh_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1_ohQKLxQ49ovz7mMFrRNvToMiD7SAsW-&sz=w1000",
+      "count": 6
+    },
+    {
+      "name": "Tuệ Tâm",
+      "photos_json": [
+        "photos_tue_tam_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=151GJ0-Wa2o_gjuoCy-urFMsDjFs_VTex&sz=w1000",
+      "count": 6
+    },
+    {
+      "name": "Phổ Minh",
+      "photos_json": [
+        "photos_pho_minh_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1QEpaj6rPE6O4eRCfPYgxP-82cerEZLQX&sz=w1000",
+      "count": 1
+    },
+    {
+      "name": "Sư Tây",
+      "photos_json": [
+        "photos_su_tay_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1mkEFFAmOfmYmYoXjCwMLb08sOO0PVe4g&sz=w1000",
+      "count": 5
+    },
+    {
+      "name": "Phúc Giác",
+      "photos_json": [
+        "photos_phuc_giac_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1rYTDXhMaQIA5hZd9rjAfmR9ujZ5RuPwA&sz=w1000",
+      "count": 16
+    },
+    {
+      "name": "Pháp Đăng",
+      "photos_json": [
+        "photos_phap_dang_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1gjLO-i9yLPoln71NFKaI2Bouve05o6Tg&sz=w1000",
+      "count": 2
+    },
+    {
+      "name": "Minh Thông",
+      "photos_json": [
+        "photos_minh_thong_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1Oobum2OWl0VNXdfTuLC6-4_gyVwEJpKf&sz=w1000",
+      "count": 10
+    },
+    {
+      "name": "Minh Tạng",
+      "photos_json": [
+        "photos_minh_tang_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=12D6D-MqUsTyxZ_hRAju1CLvWMr2zN8ic&sz=w1000",
+      "count": 3
+    },
+    {
+      "name": "Minh Tấn",
+      "photos_json": [
+        "photos_minh_tan_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1O_SKGBm3Av3XyakwqOl4wH_Q5HUo5fEH&sz=w1000",
+      "count": 4
+    },
+    {
+      "name": "Minh Thức",
+      "photos_json": [
+        "photos_minh_thuc_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1HHb4Mig6pJQ3-5A5yn0KvL--uJ7qi9BQ&sz=w1000",
+      "count": 5
+    },
+    {
+      "name": "Minh Quang (Khánh Trí)",
+      "photos_json": [
+        "photos_minh_quang_khanh_tri_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1q47Wv8Vasj4eIWxL3sZZgBENIuNxdK2_&sz=w1000",
+      "count": 1
+    },
+    {
+      "name": "Minh Khổ",
+      "photos_json": [
+        "photos_minh_kho_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1cSy9k9d-2VOTmQKZ4oKUqUd9BIo2_CS2&sz=w1000",
+      "count": 1
+    },
+    {
+      "name": "Minh Hoan",
+      "photos_json": [
+        "photos_minh_hoan_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1cfftdtxP_Gx7EFEjSc1Ylcd_zWzNdlOh&sz=w1000",
+      "count": 4
+    },
+    {
+      "name": "Minh Hiển (Hiển khờ khạo)",
+      "photos_json": [
+        "photos_minh_hien_hien_kho_khao_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1My5cSrrpoSx-FrZZPHlJ6MhhhMEXXuXS&sz=w1000",
+      "count": 2
+    },
+    {
+      "name": "Minh Giải",
+      "photos_json": [
+        "photos_minh_giai_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1b4EIdLZnqcc1TaD0qVHFVbixPGK88kMX&sz=w1000",
+      "count": 3
+    },
+    {
+      "name": "Minh Hiền",
+      "photos_json": [
+        "photos_minh_hien_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1dg1YUq1i0XQCZrwLL6_zFmJJnSr7KhkK&sz=w1000",
+      "count": 1
+    },
+    {
+      "name": "Chơn Chí",
+      "photos_json": [
+        "photos_chon_chi_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1nDM8HYsKi86hB8vTXrC7oyWSGSRCk_sV&sz=w1000",
+      "count": 2
+    },
+    {
+      "name": "Minh Dược",
+      "photos_json": [
+        "photos_minh_duoc_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=18GtA_6YkTYyJUIjlF7fYVbRMLjDpoVHO&sz=w1000",
+      "count": 6
+    },
+    {
+      "name": "Minh Chơn",
+      "photos_json": [
+        "photos_minh_chon_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=15Nkg1-sjx0ijUTBDmKnIgHYpsQeSekhr&sz=w1000",
+      "count": 1
+    },
+    {
+      "name": "Giác Thiện",
+      "photos_json": [
+        "photos_giac_thien_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1W9h1glmxSyE4IEp6nO19RkuNiKy49PrM&sz=w1000",
+      "count": 4
+    },
+    {
+      "name": "An Nhiên",
+      "photos_json": [
+        "photos_an_nhien_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=10q8XCrXaf2ndCiqMECJsTRQ-lv-ImwG5&sz=w1000",
+      "count": 1
+    },
+    {
+      "name": "Chiếu Đức",
+      "photos_json": [
+        "photos_chieu_duc_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1IhMNggCJyng92D0oyme4Nnr0VYShtS2Y&sz=w1000",
+      "count": 1
+    },
+    {
+      "name": "An Lạc",
+      "photos_json": [
+        "photos_an_lac_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1gcW7g0nYUQ6aNJLx7X7LqY7fWJVnQ5GR&sz=w1000",
+      "count": 2
+    }
+  ]
+}

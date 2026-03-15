@@ -1,0 +1,12 @@
+{
+  "albums": [
+    {
+      "name": "Phật tử 01",
+      "photos_json": [
+        "photos_phat_tu_01_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=19UTF9ErJdYbn6IwM-gdbz-_unNzNvTh3&sz=w1000",
+      "count": 15
+    }
+  ]
+}

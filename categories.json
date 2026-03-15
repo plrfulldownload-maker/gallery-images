@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "name": "Phật tử",
+      "albums_json": "albums_phat_tu.json"
+    },
+    {
+      "name": "Người khác",
+      "albums_json": "albums_nguoi_khac.json"
+    },
+    {
+      "name": "Sự cố",
+      "albums_json": "albums_su_co.json"
+    },
+    {
+      "name": "ĐOÀN",
+      "albums_json": "albums_doan.json"
+    },
+    {
+      "name": "Sư nhỏ",
+      "albums_json": "albums_su_nho.json"
+    },
+    {
+      "name": "Sư Minh Tuệ",
+      "albums_json": "albums_su_minh_tue.json"
+    },
+    {
+      "name": "TNV",
+      "albums_json": "albums_tnv.json"
+    }
+  ]
+}
