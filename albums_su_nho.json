@@ -1,6 +1,14 @@
 {
   "albums": [
     {
+      "name": "Thiện Vương",
+      "photos_json": [
+        "photos_thien_vuong_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1JQy6FTLbi1zBOstjG7fQnfN3ZUXoZSko&sz=w1000",
+      "count": 1
+    },
+    {
       "name": "Đạo Đạt",
       "photos_json": [
         "photos_dao_dat_1.json"
@@ -53,8 +61,8 @@
       "photos_json": [
         "photos_phuc_giac_1.json"
       ],
-      "cover": "https://drive.google.com/thumbnail?id=1rYTDXhMaQIA5hZd9rjAfmR9ujZ5RuPwA&sz=w1000",
-      "count": 16
+      "cover": "https://drive.google.com/thumbnail?id=1_a1-bmxVC31ilx1Jkx9wYpuQzV4EMcFS&sz=w1000",
+      "count": 17
     },
     {
       "name": "Pháp Đăng",
@@ -77,8 +85,8 @@
       "photos_json": [
         "photos_minh_tang_1.json"
       ],
-      "cover": "https://drive.google.com/thumbnail?id=12D6D-MqUsTyxZ_hRAju1CLvWMr2zN8ic&sz=w1000",
-      "count": 3
+      "cover": "https://drive.google.com/thumbnail?id=1BE2dpK-XGJ-uDFRIeXmeEKcOvBOMAh_D&sz=w1000",
+      "count": 6
     },
     {
       "name": "Minh Tấn",
@@ -101,8 +109,8 @@
       "photos_json": [
         "photos_minh_quang_khanh_tri_1.json"
       ],
-      "cover": "https://drive.google.com/thumbnail?id=1q47Wv8Vasj4eIWxL3sZZgBENIuNxdK2_&sz=w1000",
-      "count": 1
+      "cover": "https://drive.google.com/thumbnail?id=1SHVRZLaurcFtkB4t-rXB5LPDl_UFqFrP&sz=w1000",
+      "count": 3
     },
     {
       "name": "Minh Khổ",
@@ -134,7 +142,7 @@
         "photos_minh_giai_1.json"
       ],
       "cover": "https://drive.google.com/thumbnail?id=1b4EIdLZnqcc1TaD0qVHFVbixPGK88kMX&sz=w1000",
-      "count": 3
+      "count": 4
     },
     {
       "name": "Minh Hiền",
@@ -197,8 +205,8 @@
       "photos_json": [
         "photos_an_lac_1.json"
       ],
-      "cover": "https://drive.google.com/thumbnail?id=1gcW7g0nYUQ6aNJLx7X7LqY7fWJVnQ5GR&sz=w1000",
-      "count": 2
+      "cover": "https://drive.google.com/thumbnail?id=19_xdlni7cJDu4ppMvs2H00ahrMySw-II&sz=w1000",
+      "count": 4
     }
   ]
 }
