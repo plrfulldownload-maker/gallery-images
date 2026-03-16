@@ -1,3 +1,12 @@
 {
-  "albums": []
+  "albums": [
+    {
+      "name": "Sự cố 01",
+      "photos_json": [
+        "photos_su_co_01_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1s4dQdFfnsAR4i_x5O6GjzdraBMARbDdy&sz=w1000",
+      "count": 16
+    }
+  ]
 }
