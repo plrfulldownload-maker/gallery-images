@@ -1,14 +1,23 @@
 {
-  "stamp": 1773665133981,
+  "stamp": 1773674166762,
   "albums": [
+    {
+      "name": "Ảnh đẹp",
+      "photos_json": [
+        "photos_anh_dep_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1McB5PPfkgLa9bp7G4ErL4M31sq0TcAYv&sz=w1200",
+      "count": 24,
+      "stamp": 1773674166762
+    },
     {
       "name": "Cá nhân",
       "photos_json": [
         "photos_ca_nhan_1.json"
       ],
-      "cover": "https://drive.google.com/thumbnail?id=1jS49XD9YN3R2wncS3qHzSa_1P7X1ytq5&sz=w1200",
-      "count": 1,
-      "stamp": 1773665133981
+      "cover": "https://drive.google.com/thumbnail?id=1vBxowvfvqG10PLPTW6q9LC7vVi5lgWC5&sz=w1200",
+      "count": 4,
+      "stamp": 1773674166762
     },
     {
       "name": "Facebook",
@@ -17,7 +26,7 @@
       ],
       "cover": "https://drive.google.com/thumbnail?id=1vrAhsT1G2esbVev5arcSINiaAk4eEuvz&sz=w1200",
       "count": 1,
-      "stamp": 1773665133981
+      "stamp": 1773674166762
     },
     {
       "name": "Nepal",
@@ -26,7 +35,7 @@
       ],
       "cover": "https://drive.google.com/thumbnail?id=1zNfeLMs2mf-chRulfsc4cWtjQ125_I5-&sz=w1200",
       "count": 12,
-      "stamp": 1773665133981
+      "stamp": 1773674166762
     },
     {
       "name": "Ngủ đứng",
@@ -35,7 +44,7 @@
       ],
       "cover": "https://drive.google.com/thumbnail?id=1rCORWwRacqLtdv6UaPsn8MybdMPAvleK&sz=w1200",
       "count": 8,
-      "stamp": 1773665133981
+      "stamp": 1773674166762
     },
     {
       "name": "Sư Minh Tuệ 01",
@@ -44,7 +53,7 @@
       ],
       "cover": "https://drive.google.com/thumbnail?id=1gY3ACyvs4DKZ65Y0RubHFNvkjlpw0KcE&sz=w1200",
       "count": 10,
-      "stamp": 1773665133981
+      "stamp": 1773674166762
     },
     {
       "name": "Tâm thư",
@@ -53,7 +62,7 @@
       ],
       "cover": "https://drive.google.com/thumbnail?id=1Ub1JKsDZAii2_pmeFxmRVfFMvJMIOOnu&sz=w1200",
       "count": 2,
-      "stamp": 1773665133981
+      "stamp": 1773674166762
     },
     {
       "name": "Thư giới thiệu",
@@ -62,7 +71,7 @@
       ],
       "cover": "https://drive.google.com/thumbnail?id=14L5ihLejblY7rfgQP4AB0HwgCMA-U3Ev&sz=w1200",
       "count": 4,
-      "stamp": 1773665133981
+      "stamp": 1773674166762
     }
   ]
 }
