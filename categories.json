@@ -1,32 +1,47 @@
 {
+  "stamp": 1773656093547,
   "categories": [
     {
-      "name": "Phật tử",
-      "albums_json": "albums_phat_tu.json"
+      "name": "ĐOÀN",
+      "albums_json": "albums_doan.json",
+      "cover": "https://drive.google.com/thumbnail?id=1p1vS7pqbLlh8gj2aHgOrNutj7VYYjtna&sz=w1200",
+      "count": 96
     },
     {
       "name": "Người khác",
-      "albums_json": "albums_nguoi_khac.json"
+      "albums_json": "albums_nguoi_khac.json",
+      "cover": "https://drive.google.com/thumbnail?id=1ND016EH9oN6QyPP1fm5Ptg5y-rDIakyM&sz=w1200",
+      "count": 37
+    },
+    {
+      "name": "Phật tử",
+      "albums_json": "albums_phat_tu.json",
+      "cover": "https://drive.google.com/thumbnail?id=19UTF9ErJdYbn6IwM-gdbz-_unNzNvTh3&sz=w1200",
+      "count": 15
     },
     {
       "name": "Sự cố",
-      "albums_json": "albums_su_co.json"
-    },
-    {
-      "name": "ĐOÀN",
-      "albums_json": "albums_doan.json"
-    },
-    {
-      "name": "Sư nhỏ",
-      "albums_json": "albums_su_nho.json"
+      "albums_json": "albums_su_co.json",
+      "cover": "https://drive.google.com/thumbnail?id=1s4dQdFfnsAR4i_x5O6GjzdraBMARbDdy&sz=w1200",
+      "count": 16
     },
     {
       "name": "Sư Minh Tuệ",
-      "albums_json": "albums_su_minh_tue.json"
+      "albums_json": "albums_su_minh_tue.json",
+      "cover": "https://drive.google.com/thumbnail?id=1jS49XD9YN3R2wncS3qHzSa_1P7X1ytq5&sz=w1200",
+      "count": 38
+    },
+    {
+      "name": "Sư nhỏ",
+      "albums_json": "albums_su_nho.json",
+      "cover": "https://drive.google.com/thumbnail?id=1JQy6FTLbi1zBOstjG7fQnfN3ZUXoZSko&sz=w1200",
+      "count": 100
     },
     {
       "name": "TNV",
-      "albums_json": "albums_tnv.json"
+      "albums_json": "albums_tnv.json",
+      "cover": "https://drive.google.com/thumbnail?id=1T80tUFpo414q36k5i1lxqCqDIKRKQhWu&sz=w1200",
+      "count": 3
     }
   ]
 }

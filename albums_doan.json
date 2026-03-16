@@ -1,36 +1,41 @@
 {
+  "stamp": 1773656093547,
   "albums": [
-    {
-      "name": "Tổng hợp",
-      "photos_json": [
-        "photos_tong_hop_1.json"
-      ],
-      "cover": "https://drive.google.com/thumbnail?id=1p1vS7pqbLlh8gj2aHgOrNutj7VYYjtna&sz=w1000",
-      "count": 1
-    },
     {
       "name": "Ấn Độ",
       "photos_json": [
         "photos_an_do_1.json"
       ],
-      "cover": "https://drive.google.com/thumbnail?id=1w4XTfqeZ6ircJmTH4Bqv--ohmOe3kgy6&sz=w1000",
-      "count": 32
+      "cover": "https://drive.google.com/thumbnail?id=1w4XTfqeZ6ircJmTH4Bqv--ohmOe3kgy6&sz=w1200",
+      "count": 32,
+      "stamp": 1773656093547
     },
     {
       "name": "Cam kết",
       "photos_json": [
         "photos_cam_ket_1.json"
       ],
-      "cover": "https://drive.google.com/thumbnail?id=1_L6bKWiyfreVR30c6eJFm5ZHLdKlHQmB&sz=w1000",
-      "count": 40
+      "cover": "https://drive.google.com/thumbnail?id=1_L6bKWiyfreVR30c6eJFm5ZHLdKlHQmB&sz=w1200",
+      "count": 40,
+      "stamp": 1773656093547
     },
     {
       "name": "Nepal",
       "photos_json": [
         "photos_nepal_1.json"
       ],
-      "cover": "https://drive.google.com/thumbnail?id=1_tP29vHBx6NJc0MoUoHtiQAyVyEfvDwy&sz=w1000",
-      "count": 23
+      "cover": "https://drive.google.com/thumbnail?id=1_tP29vHBx6NJc0MoUoHtiQAyVyEfvDwy&sz=w1200",
+      "count": 23,
+      "stamp": 1773656093547
+    },
+    {
+      "name": "Tổng hợp",
+      "photos_json": [
+        "photos_tong_hop_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1p1vS7pqbLlh8gj2aHgOrNutj7VYYjtna&sz=w1200",
+      "count": 1,
+      "stamp": 1773656093547
     }
   ]
 }

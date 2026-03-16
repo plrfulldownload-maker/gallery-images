@@ -1,60 +1,68 @@
 {
+  "stamp": 1773656093547,
   "albums": [
     {
-      "name": "Những người có ảnh hưởng",
+      "name": "Chị Quế",
       "photos_json": [
-        "photos_nhung_nguoi_co_anh_huong_1.json"
+        "photos_chi_que_1.json"
       ],
-      "cover": "https://drive.google.com/thumbnail?id=1ND016EH9oN6QyPP1fm5Ptg5y-rDIakyM&sz=w1000",
-      "count": 15
-    },
-    {
-      "name": "Pháp Hỷ",
-      "photos_json": [
-        "photos_phap_hy_1.json"
-      ],
-      "cover": "https://drive.google.com/thumbnail?id=1wKvhSPwWoCb_RXXXC9pjo2LpUEjBU0ju&sz=w1000",
-      "count": 3
-    },
-    {
-      "name": "Sư OK",
-      "photos_json": [
-        "photos_su_ok_1.json"
-      ],
-      "cover": "https://drive.google.com/thumbnail?id=1yqAYrHfBMfUyofkQ4kVIOQ9vL3X5qaRG&sz=w1000",
-      "count": 4
-    },
-    {
-      "name": "Tâm 32 cái muỗng",
-      "photos_json": [
-        "photos_tam_32_cai_muong_1.json"
-      ],
-      "cover": "https://drive.google.com/thumbnail?id=1XYmnQAwFXu_FAa_rJnaeVRvuCxO6v3j8&sz=w1000",
-      "count": 2
+      "cover": "https://drive.google.com/thumbnail?id=1wEXixru4O2gxGvkJbfM2hA9JJ8DgoyXX&sz=w1200",
+      "count": 3,
+      "stamp": 1773656093547
     },
     {
       "name": "Diễn viên ẤN ĐỘ",
       "photos_json": [
         "photos_dien_vien_an_do_1.json"
       ],
-      "cover": "https://drive.google.com/thumbnail?id=1Ydr1Lkt7IFmA5ScvBw1dUIiBMxj1rNkh&sz=w1000",
-      "count": 3
+      "cover": "https://drive.google.com/thumbnail?id=1Ydr1Lkt7IFmA5ScvBw1dUIiBMxj1rNkh&sz=w1200",
+      "count": 3,
+      "stamp": 1773656093547
+    },
+    {
+      "name": "Những người có ảnh hưởng",
+      "photos_json": [
+        "photos_nhung_nguoi_co_anh_huong_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1ND016EH9oN6QyPP1fm5Ptg5y-rDIakyM&sz=w1200",
+      "count": 15,
+      "stamp": 1773656093547
+    },
+    {
+      "name": "Pháp Hỷ",
+      "photos_json": [
+        "photos_phap_hy_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1wKvhSPwWoCb_RXXXC9pjo2LpUEjBU0ju&sz=w1200",
+      "count": 3,
+      "stamp": 1773656093547
     },
     {
       "name": "Sư cô Nhuận Hải",
       "photos_json": [
         "photos_su_co_nhuan_hai_1.json"
       ],
-      "cover": "https://drive.google.com/thumbnail?id=1-0kPiqQOY6BZWH2ap3xkHiOcGc-_tO4h&sz=w1000",
-      "count": 7
+      "cover": "https://drive.google.com/thumbnail?id=1-0kPiqQOY6BZWH2ap3xkHiOcGc-_tO4h&sz=w1200",
+      "count": 7,
+      "stamp": 1773656093547
     },
     {
-      "name": "Chị Quế",
+      "name": "Sư OK",
       "photos_json": [
-        "photos_chi_que_1.json"
+        "photos_su_ok_1.json"
       ],
-      "cover": "https://drive.google.com/thumbnail?id=1wEXixru4O2gxGvkJbfM2hA9JJ8DgoyXX&sz=w1000",
-      "count": 3
+      "cover": "https://drive.google.com/thumbnail?id=1yqAYrHfBMfUyofkQ4kVIOQ9vL3X5qaRG&sz=w1200",
+      "count": 4,
+      "stamp": 1773656093547
+    },
+    {
+      "name": "Tâm 32 cái muỗng",
+      "photos_json": [
+        "photos_tam_32_cai_muong_1.json"
+      ],
+      "cover": "https://drive.google.com/thumbnail?id=1XYmnQAwFXu_FAa_rJnaeVRvuCxO6v3j8&sz=w1200",
+      "count": 2,
+      "stamp": 1773656093547
     }
   ]
 }
