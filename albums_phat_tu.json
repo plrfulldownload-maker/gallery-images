@@ -1,14 +1,14 @@
 {
-  "stamp": 1773711978989,
+  "stamp": 1773729861575,
   "albums": [
     {
       "name": "Phật tử 01",
       "photos_json": [
-        "photos_phat_tu_01_1.json"
+        "photos_phat_tu_phat_tu_01_1.json"
       ],
       "cover": "https://drive.google.com/thumbnail?id=1xjLEAtv0GAxHbO0YtRc8kZlHTrLeREde&sz=w1200",
       "count": 27,
-      "stamp": 1773711978989
+      "stamp": 1773729861575
     }
   ]
 }
