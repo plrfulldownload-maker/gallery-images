@@ -1,5 +1,5 @@
 {
-  "stamp": 1773674166762,
+  "stamp": 1773711978989,
   "albums": [
     {
       "name": "Chị Quế",
@@ -8,7 +8,7 @@
       ],
       "cover": "https://drive.google.com/thumbnail?id=1wEXixru4O2gxGvkJbfM2hA9JJ8DgoyXX&sz=w1200",
       "count": 3,
-      "stamp": 1773674166762
+      "stamp": 1773711978989
     },
     {
       "name": "Diễn viên ẤN ĐỘ",
@@ -17,25 +17,25 @@
       ],
       "cover": "https://drive.google.com/thumbnail?id=1Ydr1Lkt7IFmA5ScvBw1dUIiBMxj1rNkh&sz=w1200",
       "count": 3,
-      "stamp": 1773674166762
+      "stamp": 1773711978989
     },
     {
-      "name": "Những người có ảnh hưởng",
+      "name": "Những người có liên quan ĐOÀN",
       "photos_json": [
-        "photos_nhung_nguoi_co_anh_huong_1.json"
+        "photos_nhung_nguoi_co_lien_quan_doan_1.json"
       ],
       "cover": "https://drive.google.com/thumbnail?id=1ND016EH9oN6QyPP1fm5Ptg5y-rDIakyM&sz=w1200",
       "count": 15,
-      "stamp": 1773674166762
+      "stamp": 1773711978989
     },
     {
       "name": "Pháp Hỷ",
       "photos_json": [
         "photos_phap_hy_1.json"
       ],
-      "cover": "https://drive.google.com/thumbnail?id=1wKvhSPwWoCb_RXXXC9pjo2LpUEjBU0ju&sz=w1200",
-      "count": 3,
-      "stamp": 1773674166762
+      "cover": "https://drive.google.com/thumbnail?id=1sy6bSaII-wvzd1njLB1r5FOxX2UCOdF4&sz=w1200",
+      "count": 9,
+      "stamp": 1773711978989
     },
     {
       "name": "Sư cô Nhuận Hải",
@@ -44,7 +44,7 @@
       ],
       "cover": "https://drive.google.com/thumbnail?id=1-0kPiqQOY6BZWH2ap3xkHiOcGc-_tO4h&sz=w1200",
       "count": 7,
-      "stamp": 1773674166762
+      "stamp": 1773711978989
     },
     {
       "name": "Sư OK",
@@ -53,7 +53,7 @@
       ],
       "cover": "https://drive.google.com/thumbnail?id=1yqAYrHfBMfUyofkQ4kVIOQ9vL3X5qaRG&sz=w1200",
       "count": 4,
-      "stamp": 1773674166762
+      "stamp": 1773711978989
     },
     {
       "name": "Tâm 32 cái muỗng",
@@ -62,7 +62,7 @@
       ],
       "cover": "https://drive.google.com/thumbnail?id=1XYmnQAwFXu_FAa_rJnaeVRvuCxO6v3j8&sz=w1200",
       "count": 2,
-      "stamp": 1773674166762
+      "stamp": 1773711978989
     }
   ]
 }

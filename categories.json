@@ -1,13 +1,13 @@
 {
-  "stamp": 1773674166762,
+  "stamp": 1773711978989,
   "categories": [
     {
       "name": "ĐOÀN",
       "description": "",
       "albums_json": "albums_doan.json",
-      "cover": "https://drive.google.com/thumbnail?id=1p1vS7pqbLlh8gj2aHgOrNutj7VYYjtna&sz=w1200",
-      "latest_photo": "https://drive.google.com/thumbnail?id=1p1vS7pqbLlh8gj2aHgOrNutj7VYYjtna&sz=w1200",
-      "count": 96,
+      "cover": "https://drive.google.com/thumbnail?id=1PcIDj8qIPxVVPf2vIpTS_vTXL9Bbg8dJ&sz=w1200",
+      "latest_photo": "https://drive.google.com/thumbnail?id=1PcIDj8qIPxVVPf2vIpTS_vTXL9Bbg8dJ&sz=w1200",
+      "count": 101,
       "album_count": 4
     },
     {
@@ -16,44 +16,44 @@
       "albums_json": "albums_nguoi_khac.json",
       "cover": "https://drive.google.com/thumbnail?id=1ND016EH9oN6QyPP1fm5Ptg5y-rDIakyM&sz=w1200",
       "latest_photo": "https://drive.google.com/thumbnail?id=1ND016EH9oN6QyPP1fm5Ptg5y-rDIakyM&sz=w1200",
-      "count": 37,
+      "count": 43,
       "album_count": 7
     },
     {
       "name": "Phật tử",
       "description": "",
       "albums_json": "albums_phat_tu.json",
-      "cover": "https://drive.google.com/thumbnail?id=19UTF9ErJdYbn6IwM-gdbz-_unNzNvTh3&sz=w1200",
-      "latest_photo": "https://drive.google.com/thumbnail?id=19UTF9ErJdYbn6IwM-gdbz-_unNzNvTh3&sz=w1200",
-      "count": 15,
+      "cover": "https://drive.google.com/thumbnail?id=1xjLEAtv0GAxHbO0YtRc8kZlHTrLeREde&sz=w1200",
+      "latest_photo": "https://drive.google.com/thumbnail?id=1xjLEAtv0GAxHbO0YtRc8kZlHTrLeREde&sz=w1200",
+      "count": 27,
       "album_count": 1
     },
     {
       "name": "Sự cố",
       "description": "",
       "albums_json": "albums_su_co.json",
-      "cover": "https://drive.google.com/thumbnail?id=1s4dQdFfnsAR4i_x5O6GjzdraBMARbDdy&sz=w1200",
-      "latest_photo": "https://drive.google.com/thumbnail?id=1s4dQdFfnsAR4i_x5O6GjzdraBMARbDdy&sz=w1200",
-      "count": 16,
-      "album_count": 1
+      "cover": "https://drive.google.com/thumbnail?id=1uV2X4e-RNI1l5ap04bIFw7SNZh6NMNSr&sz=w1200",
+      "latest_photo": "https://drive.google.com/thumbnail?id=1uV2X4e-RNI1l5ap04bIFw7SNZh6NMNSr&sz=w1200",
+      "count": 18,
+      "album_count": 2
     },
     {
       "name": "Sư Minh Tuệ",
       "description": "",
       "albums_json": "albums_su_minh_tue.json",
-      "cover": "https://drive.google.com/thumbnail?id=1McB5PPfkgLa9bp7G4ErL4M31sq0TcAYv&sz=w1200",
-      "latest_photo": "https://drive.google.com/thumbnail?id=1McB5PPfkgLa9bp7G4ErL4M31sq0TcAYv&sz=w1200",
-      "count": 65,
+      "cover": "https://drive.google.com/thumbnail?id=1CJOw63ccJOj0B6Sdkek6UmyZRNG2i4eh&sz=w1200",
+      "latest_photo": "https://drive.google.com/thumbnail?id=1CJOw63ccJOj0B6Sdkek6UmyZRNG2i4eh&sz=w1200",
+      "count": 70,
       "album_count": 8
     },
     {
       "name": "Sư nhỏ",
       "description": "",
       "albums_json": "albums_su_nho.json",
-      "cover": "https://drive.google.com/thumbnail?id=1JQy6FTLbi1zBOstjG7fQnfN3ZUXoZSko&sz=w1200",
-      "latest_photo": "https://drive.google.com/thumbnail?id=1JQy6FTLbi1zBOstjG7fQnfN3ZUXoZSko&sz=w1200",
-      "count": 100,
-      "album_count": 26
+      "cover": "https://drive.google.com/thumbnail?id=122s_yLumzAkFNo0Aikm6I-sInmWrXwWV&sz=w1200",
+      "latest_photo": "https://drive.google.com/thumbnail?id=122s_yLumzAkFNo0Aikm6I-sInmWrXwWV&sz=w1200",
+      "count": 142,
+      "album_count": 30
     },
     {
       "name": "TNV",
