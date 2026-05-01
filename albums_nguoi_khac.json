@@ -1,77 +1,77 @@
 {
-  "stamp": 1777626892865,
+  "stamp": 1777628093201,
   "albums": [
     {
-      "name": "Ch? Qu?",
+      "name": "Chị Quế",
       "photos_json": [
         "photos_nguoi_khac_chi_que_1.json"
       ],
       "cover": "https://drive.google.com/thumbnail?id=1XC7EmP9A5CGndcCz09psSffJtTennVR0&sz=w1200",
       "count": 6,
-      "stamp": 1777626892865
+      "stamp": 1777628093201
     },
     {
-      "name": "Di?n vi?n ?N ??",
+      "name": "Diễn viên ẤN ĐỘ",
       "photos_json": [
         "photos_nguoi_khac_dien_vien_an_do_1.json"
       ],
       "cover": "https://drive.google.com/thumbnail?id=1Ydr1Lkt7IFmA5ScvBw1dUIiBMxj1rNkh&sz=w1200",
       "count": 3,
-      "stamp": 1777626892865
+      "stamp": 1777628093201
     },
     {
-      "name": "Nh?ng ng??i c? li?n quan ?O?N",
+      "name": "Những người có liên quan ĐOÀN",
       "photos_json": [
         "photos_nguoi_khac_nhung_nguoi_co_lien_quan_doan_1.json"
       ],
       "cover": "https://drive.google.com/thumbnail?id=1ND016EH9oN6QyPP1fm5Ptg5y-rDIakyM&sz=w1200",
       "count": 15,
-      "stamp": 1777626892865
+      "stamp": 1777628093201
     },
     {
-      "name": "Ph?p H?",
+      "name": "Pháp Hỷ",
       "photos_json": [
         "photos_nguoi_khac_phap_hy_1.json"
       ],
       "cover": "https://drive.google.com/thumbnail?id=1sy6bSaII-wvzd1njLB1r5FOxX2UCOdF4&sz=w1200",
       "count": 9,
-      "stamp": 1777626892865
+      "stamp": 1777628093201
     },
     {
-      "name": "S? B?u Kh?nh",
+      "name": "Sư Bửu Khánh",
       "photos_json": [
         "photos_nguoi_khac_su_buu_khanh_1.json"
       ],
       "cover": "https://drive.google.com/thumbnail?id=1DVsApnN55sEI-hHdxevNlWDNN2TiPsJ1&sz=w1200",
       "count": 2,
-      "stamp": 1777626892865
+      "stamp": 1777628093201
     },
     {
-      "name": "S? c? Nhu?n H?i",
+      "name": "Sư cô Nhuận Hải",
       "photos_json": [
         "photos_nguoi_khac_su_co_nhuan_hai_1.json"
       ],
       "cover": "https://drive.google.com/thumbnail?id=141CYjc9_ITvhMfBKPDFOYqmIs_BQDCvC&sz=w1200",
       "count": 8,
-      "stamp": 1777626892865
+      "stamp": 1777628093201
     },
     {
-      "name": "S? OK",
+      "name": "Sư OK",
       "photos_json": [
         "photos_nguoi_khac_su_ok_1.json"
       ],
       "cover": "https://drive.google.com/thumbnail?id=1yqAYrHfBMfUyofkQ4kVIOQ9vL3X5qaRG&sz=w1200",
       "count": 4,
-      "stamp": 1777626892865
+      "stamp": 1777628093201
     },
     {
-      "name": "T?m 32 c?i mu?ng",
+      "name": "Tâm 32 cái muỗng",
       "photos_json": [
         "photos_nguoi_khac_tam_32_cai_muong_1.json"
       ],
       "cover": "https://drive.google.com/thumbnail?id=1XYmnQAwFXu_FAa_rJnaeVRvuCxO6v3j8&sz=w1200",
       "count": 2,
-      "stamp": 1777626892865
+      "stamp": 1777628093201
     }
   ]
 }
