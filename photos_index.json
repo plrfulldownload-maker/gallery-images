@@ -1,7 +1,8 @@
 {
-  "base_url": "",
   "files": [
+    "photos_phat_tu_nepal_1.json",
     "photos_phat_tu_phat_tu_01_1.json",
+    "photos_nguoi_khac_su_buu_khanh_1.json",
     "photos_nguoi_khac_nhung_nguoi_co_lien_quan_doan_1.json",
     "photos_nguoi_khac_phap_hy_1.json",
     "photos_nguoi_khac_su_ok_1.json",
@@ -15,6 +16,19 @@
     "photos_doan_an_do_1.json",
     "photos_doan_cam_ket_1.json",
     "photos_doan_nepal_1.json",
+    "photos_su_nho_minh_tuc_1.json",
+    "photos_su_nho_minh_phuc_1.json",
+    "photos_su_nho_minh_chinh_1.json",
+    "photos_su_nho_tue_duc_1.json",
+    "photos_su_nho_dai_dao_1.json",
+    "photos_su_nho_minh_sang_1.json",
+    "photos_su_nho_minh_tang_1.json",
+    "photos_su_nho_tuy_duyen_1.json",
+    "photos_su_nho_vo_tru_1.json",
+    "photos_su_nho_minh_tri_1.json",
+    "photos_su_nho_minh_thien_1.json",
+    "photos_su_nho_tri_hai_1.json",
+    "photos_su_nho_tue_minh_1.json",
     "photos_su_nho_minh_kien_1.json",
     "photos_su_nho_bon_phat_1.json",
     "photos_su_nho_nhat_tang_1.json",
@@ -45,6 +59,7 @@
     "photos_su_nho_an_nhien_1.json",
     "photos_su_nho_chieu_duc_1.json",
     "photos_su_nho_an_lac_1.json",
+    "photos_su_minh_tue_y_ao_1.json",
     "photos_su_minh_tue_gia_dinh_1.json",
     "photos_su_minh_tue_anh_dep_1.json",
     "photos_su_minh_tue_ca_nhan_1.json",
@@ -53,6 +68,7 @@
     "photos_su_minh_tue_thu_gioi_thieu_1.json",
     "photos_su_minh_tue_su_minh_tue_01_1.json",
     "photos_su_minh_tue_ngu_dung_1.json",
+    "photos_tnv_khac_1.json",
     "photos_tnv_tnv_01_1.json"
   ]
 }
