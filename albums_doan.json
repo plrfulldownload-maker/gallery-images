@@ -1,23 +1,23 @@
 {
-  "stamp": 1777626892865,
+  "stamp": 1777628093201,
   "albums": [
     {
-      "name": "?n ??",
+      "name": "Ấn Độ",
       "photos_json": [
         "photos_doan_an_do_1.json"
       ],
       "cover": "https://drive.google.com/thumbnail?id=1w4XTfqeZ6ircJmTH4Bqv--ohmOe3kgy6&sz=w1200",
       "count": 32,
-      "stamp": 1777626892865
+      "stamp": 1777628093201
     },
     {
-      "name": "Cam k?t",
+      "name": "Cam kết",
       "photos_json": [
         "photos_doan_cam_ket_1.json"
       ],
       "cover": "https://drive.google.com/thumbnail?id=1lryzkij2ZKm0tAxp-kgnnpMjT2YzYiVC&sz=w1200",
       "count": 40,
-      "stamp": 1777626892865
+      "stamp": 1777628093201
     },
     {
       "name": "Nepal",
@@ -26,16 +26,16 @@
       ],
       "cover": "https://drive.google.com/thumbnail?id=1V2GuwCcm89ZUJD6JfidYSOw0vWoGdB4z&sz=w1200",
       "count": 44,
-      "stamp": 1777626892865
+      "stamp": 1777628093201
     },
     {
-      "name": "T?ng h?p",
+      "name": "Tổng hợp",
       "photos_json": [
         "photos_doan_tong_hop_1.json"
       ],
       "cover": "https://drive.google.com/thumbnail?id=1PcIDj8qIPxVVPf2vIpTS_vTXL9Bbg8dJ&sz=w1200",
       "count": 2,
-      "stamp": 1777626892865
+      "stamp": 1777628093201
     }
   ]
 }
